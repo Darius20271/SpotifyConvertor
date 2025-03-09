@@ -26,7 +26,7 @@ python Finder.py
 ```
 
 
-Or download the release version and run the `Finder.exe`
+Or download the release version and run the `Finder.exe`, but don't forget about `requirements.bat`
 
 ## Clean Up:
 
