@@ -25,6 +25,9 @@ Run the following command:
 python Finder.py
 ```
 
+
+Or download the release version and run the 'Finder.exe'
+
 ## Clean Up:
 
 After the conversion process is complete, make sure to delete the WEBM files as they occupy significant storage space.
