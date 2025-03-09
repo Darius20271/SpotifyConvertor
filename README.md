@@ -26,7 +26,7 @@ python Finder.py
 ```
 
 
-Or download the release version and run the 'Finder.exe'
+Or download the release version and run the `Finder.exe`
 
 ## Clean Up:
 
