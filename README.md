@@ -1,5 +1,5 @@
 # Announcement 
-This is my first project, but I will release a SpotifyConvertorV2, in a few months.
+This is my first project, but I will release a SpotifyConvertorV2 or SpotifyDownload, in a few months.
 # Spotify to MP3 Converter
 Introduction
 This project is a program designed to convert Spotify playlists into MP3 files. It extracts the song names from a Spotify playlist, downloads the corresponding audio from YouTube in WEBM format, and then converts the files to MP3.
